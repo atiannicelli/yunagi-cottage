@@ -14,7 +14,7 @@ Events in Harpswell, Brunswick, Portland, and surrounding Midcoast Maine.
 -
 
 ### Weekend of May 22-24 (Memorial Day Weekend)
--
+- 🇺🇸 Memorial Day Weekend
 
 ### Weekend of May 29-31
 -
@@ -23,12 +23,10 @@ Events in Harpswell, Brunswick, Portland, and surrounding Midcoast Maine.
 
 ### Weekend of June 5-7
 - **Hairspray** @ Maine State Music Theatre (June 3-20), Brunswick
-- **Shrek the Musical** (Family Theatre) @ MSMT, June 8
 
 ### Weekend of June 12-14
 - **Hairspray** @ Maine State Music Theatre (continues), Brunswick
 - **Dancing Queen: Songs of ABBA** (Concert) @ MSMT, June 14 & 15
-- **Maine Whoopie Pie Festival**, Dover-Foxcroft, June 13
 
 ### Weekend of June 19-21
 - **Hairspray** @ Maine State Music Theatre (final weekend), Brunswick
@@ -38,7 +36,8 @@ Events in Harpswell, Brunswick, Portland, and surrounding Midcoast Maine.
 
 ## July 2026
 
-### Weekend of July 3-5
+### Weekend of July 3-5 (July 4th Weekend)
+- 🎆 July 4th Weekend
 - **1776** @ Maine State Music Theatre (continues), Brunswick
 - **Johnny Cash's America** (Concert) @ MSMT, July 5 & 6
 
@@ -49,18 +48,15 @@ Events in Harpswell, Brunswick, Portland, and surrounding Midcoast Maine.
 ### Weekend of July 17-19
 - **Frozen** @ Maine State Music Theatre (July 15 - Aug 1), Brunswick
 - **Maine International Film Festival** (continues), Waterville
-- **Yarmouth Clam Festival** (3rd weekend in July), Yarmouth - July 18-20
-- **Weird Al Yankovic** @ Maine Savings Amphitheater, Bangor, July 19
+- **Yarmouth Clam Festival** (3rd weekend in July), Yarmouth - July 18-20 - FREE!
 
 ### Weekend of July 24-26
 - **Frozen** @ Maine State Music Theatre (continues), Brunswick
 - **Billy Joel Tribute** (Concert) @ MSMT, July 26 & 27
-- **Toto, Christopher Cross & The Romantics** @ Maine Savings Amphitheater, Bangor, July 23
 
 ### Weekend of July 31 - Aug 2
 - **Frozen** @ Maine State Music Theatre (final weekend), Brunswick
 - **Maine Lobster Festival** (July 29 - Aug 2), Rockland
-- **The Little Mermaid** (Family Theatre) @ MSMT, July 20 (previous weekend)
 
 ## August 2026
 
@@ -71,7 +67,6 @@ Events in Harpswell, Brunswick, Portland, and surrounding Midcoast Maine.
 ### Weekend of August 14-16
 - **Come From Away** @ Maine State Music Theatre (continues), Brunswick
 - **Topsham Fair** (Aug 11-16), Topsham
-- **Matilda** (Family Theatre) @ MSMT, August 10
 
 ### Weekend of August 21-23
 - **Come From Away** @ Maine State Music Theatre (final weekend), Brunswick
@@ -82,7 +77,7 @@ Events in Harpswell, Brunswick, Portland, and surrounding Midcoast Maine.
 ## September 2026
 
 ### Weekend of September 4-6 (Labor Day Weekend)
--
+- 🇺🇸 Labor Day Weekend
 
 ### Weekend of September 11-13
 -
