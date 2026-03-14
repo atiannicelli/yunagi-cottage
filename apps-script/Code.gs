@@ -166,37 +166,20 @@ function formatDate(date) {
 }
 
 /**
- * Create a success JSON response with CORS headers
+ * Create a success JSON response
+ * Note: CORS is handled automatically by Apps Script when deployed with "Anyone" access
  */
 function createSuccessResponse(data) {
   return ContentService
     .createTextOutput(JSON.stringify(data))
-    .setMimeType(ContentService.MimeType.JSON)
-    .setHeader('Access-Control-Allow-Origin', '*')
-    .setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
-    .setHeader('Access-Control-Allow-Headers', 'Content-Type');
+    .setMimeType(ContentService.MimeType.JSON);
 }
 
 /**
- * Create an error JSON response with CORS headers
+ * Create an error JSON response
  */
 function createErrorResponse(errorMessage) {
   return ContentService
     .createTextOutput(JSON.stringify({ error: errorMessage }))
-    .setMimeType(ContentService.MimeType.JSON)
-    .setHeader('Access-Control-Allow-Origin', '*')
-    .setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
-    .setHeader('Access-Control-Allow-Headers', 'Content-Type');
-}
-
-/**
- * Handle OPTIONS request for CORS preflight
- */
-function doOptions(e) {
-  return ContentService
-    .createTextOutput('')
-    .setMimeType(ContentService.MimeType.TEXT)
-    .setHeader('Access-Control-Allow-Origin', '*')
-    .setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS')
-    .setHeader('Access-Control-Allow-Headers', 'Content-Type');
+    .setMimeType(ContentService.MimeType.JSON);
 }
