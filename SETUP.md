@@ -1,4 +1,4 @@
-# Yūnagi Cottage - Setup Guide
+# Shore Leave - Setup Guide
 
 This guide will walk you through deploying your cottage booking website. Follow each step carefully — no technical experience required!
 
@@ -22,7 +22,7 @@ Total time: ~30 minutes
 
 1. Go to [Google Sheets](https://sheets.google.com)
 2. Click **Blank** to create a new spreadsheet
-3. Name it "Yūnagi Cottage Bookings" (click the title at the top to rename)
+3. Name it "Shore Leave Bookings" (click the title at the top to rename)
 
 ### Step 2: Create the "Weekends" Tab
 
@@ -76,7 +76,7 @@ Total time: ~30 minutes
 1. Click the **+** button at the bottom left to add a new sheet
 2. Rename this sheet to: `Config`
 3. In cell A1, type: `Password`
-4. In cell B1, type: `yunagi2026` (or choose your own password)
+4. In cell B1, type: `shoreleave2026` (or choose your own password)
 
 **Important:** This password is what guests will need to make a reservation. Keep it private but easy to share with your invited guests.
 
@@ -105,7 +105,7 @@ Your Google Sheet is now ready! ✓
 2. Click the gear icon ⚙️ next to "Select type"
 3. Choose **Web app**
 4. Fill in the deployment settings:
-   - **Description:** "Yūnagi Cottage API v1" (or whatever you want)
+   - **Description:** "Shore Leave API v1" (or whatever you want)
    - **Execute as:** Me (your email)
    - **Who has access:** Anyone
 
@@ -139,7 +139,7 @@ Your backend is now live! ✓
 1. Click the **+** button in the top right → **New repository**
 2. Fill in the details:
    - **Repository name:** `yunagi-cottage` (or whatever you prefer)
-   - **Description:** "Yūnagi Cottage booking website"
+   - **Description:** "Shore Leave booking website"
    - **Public** (required for free GitHub Pages)
    - ✅ Check "Add a README file"
 
@@ -217,7 +217,7 @@ This is the critical link between your website and your Google Sheet! ✓
    - Name: Test User
    - Email: test@example.com
    - Number of Guests: 2
-   - Password: `yunagi2026` (or whatever you set)
+   - Password: `shoreleave2026` (or whatever you set)
 
 6. Click **Confirm Reservation**
 7. You should see: "Reservation Confirmed!" ✓
@@ -316,7 +316,7 @@ If something isn't working:
 
 ## You're All Set! 🏡
 
-Your beautiful Yūnagi Cottage website is live and ready to accept bookings. Enjoy your coastal getaway! 🌅
+Your beautiful Shore Leave website is live and ready to accept bookings. Enjoy your coastal getaway! 🌅
 
 **Remember:**
 - Share the website URL with your guests

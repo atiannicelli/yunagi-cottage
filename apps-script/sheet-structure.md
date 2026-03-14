@@ -71,12 +71,12 @@ This tab stores the reservation password.
 
 | Column A | Column B |
 |----------|----------|
-| Password | yunagi2026 |
+| Password | shoreleave2026 |
 
 **Setup:**
 1. Create a new sheet tab named "Config"
 2. In cell A1, type: `Password`
-3. In cell B1, type: `yunagi2026` (or whatever password you want to use)
+3. In cell B1, type: `shoreleave2026` (or whatever password you want to use)
 
 **Security Note:** Anyone with edit access to this Google Sheet can see the password. Only share edit access with trusted people. Guests booking weekends don't need access to the sheet — they only interact with the website.
 
@@ -91,7 +91,7 @@ This tab stores the reservation password.
 5. Copy/paste the weekend data (rows 2-23)
 6. Format columns B and C as dates
 7. **Create a new tab** and name it "Config"
-8. Add the password configuration (A1: "Password", B1: "yunagi2026")
+8. Add the password configuration (A1: "Password", B1: "shoreleave2026")
 9. **Open Apps Script** from Extensions > Apps Script
 10. Continue with the Apps Script setup in SETUP.md
 
