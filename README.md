@@ -18,7 +18,7 @@ A beautiful booking website for a coastal cottage on Bailey Island, Maine.
 ## Project Structure
 
 ```
-yunagi-cottage/
+shore-leave/
 ├── index.html              # Home page
 ├── about.html              # About the cottage
 ├── schedule.html           # Booking/schedule page
